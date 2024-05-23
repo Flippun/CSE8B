@@ -1,0 +1,18 @@
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.borderArea_test1 = 3
+ this.borderArea_test2 = 75
+ this.perimeter_test1 = 4
+ this.perimeter_test2 = 20
+ this.bananaConverter_test1 = 1
+ this.bananaConverter_test2 = 10
+ this.totalYards_test1 = 200
+ this.totalYards_test2 = 1850
+ this.totalYards_test3 = 95)
+---------------
+No test methods found.
